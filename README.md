@@ -2,7 +2,7 @@
 
 Examples
 
-- CPP
+- C++
 - Rust
 - Python (In Dev)
 - C# (In Dev)
